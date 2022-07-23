@@ -36,7 +36,7 @@ _cross / hide / scratch / take / tie / wave_
 
 ## 1.4 Put the verb into the correct form, positive or negative.
 
-1. Please don't make so much noise. __I'm trying_ to work.
+1. Please don't make so much noise. _I'm trying_ to work.
 2. Let's go out now. _It isn't raining_ anymore.
 3. You can turn off the radio. **I'm not listening** to it.
 4. Kate phoned last night. She's on holiday with friends. **She's having** a great time and doesn't want to come back.
