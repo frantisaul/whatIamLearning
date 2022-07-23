@@ -1,6 +1,6 @@
 # Exercises
 
-[Page](images/Exercises_unit_1.jpeg)
+![Page](images/Exercises_unit_1.jpeg)
 
 ## 1.1 What's happening in the pictures? Choose from these verbs:
 _cross / hide / scratch / take / tie / wave_
