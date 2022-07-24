@@ -2,4 +2,4 @@
 
 Subjects I'm learning right now.
 
-- [Enlglish](subjects/English/index.md)
+- [English](subjects/English/index.md)

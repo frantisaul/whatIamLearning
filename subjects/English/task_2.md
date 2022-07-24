@@ -50,7 +50,7 @@ How often _do you play tennis_?
 6. You don't know where Lisa's grandparents live. You want to know. Ask Lisa.
 **Where do your grandparents live?**.
 
-## 2.5 Complete sing the following.
+## 2.5 Complete using the following.
 
 1. Mr Evans is not in the office today. I _suggest_ you try calling him tomorrow.
 2. I won't tell anybody what you said. **I promise**.
