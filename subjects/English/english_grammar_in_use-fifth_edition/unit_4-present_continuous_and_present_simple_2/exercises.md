@@ -36,7 +36,7 @@
     2. Are you OK? You look worried. **I think** so.
     3. **Who is this umbrella belong to?**. I've no idea.
     4. **This smells good**.
-    5. **Excuse me. Does anybody sit there? **No, It's free**.
+    5. Excuse me. **Does anybody sit there?** No, It's free.
     6. **These gloves don't fit me** They're too small.
 
 3. Are the underlined verbs OK?. Correct them where necessary.
