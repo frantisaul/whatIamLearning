@@ -5,7 +5,7 @@
 3. [Unit 3: Present continuous and present simple 1](unit_3-present_continuous_and_present_simple/exercises.md) - `I am doing` and `I do`.
 4. [Unit 4: Present continuous and present simple 2](unit_4-present_continuous_and_present_simple_2/exercises.md) - `I am doing` and `I do`.
 5. [Unit 5: Past simple](unit_5-past_simple/exercises.md) - `I did`.
-6. Unit 6: Past continuous - `I was doing`.
+6. [Unit 6: Past continuous](unit_6-past_continuous/exercises.md) - `I was doing`.
 7. Unit 7: Present perfect 1 - `I havve done`.
 8. Unit 8: Present perfect 2 - `I have done`.
 9. Unit 9: Present perfect continuous - `I have been doing`.
