@@ -7,7 +7,7 @@
 5. [Unit 5: Past simple](unit_5-past_simple/exercises.md) - `I did`.
 6. [Unit 6: Past continuous](unit_6-past_continuous/exercises.md) - `I was doing`.
 7. [Unit 7: Present perfect 1](unit_7-present_perfect/exercises.md) - `I have done`.
-8. Unit 8: Present perfect 2 - `I have done`.
+8. [Unit 8: Present perfect 2](unit_8-present_perfect_2/exercises.md) - `I have done`.
 9. Unit 9: Present perfect continuous - `I have been doing`.
 10. Unit 10: Present perfect continuous and simple - `I have been doing` and `I have done`.
 11. [Unit 11: How long have you](unit_11-how_long_have_you_been/exercises.md) (been) ... ?
