@@ -19,4 +19,14 @@
 17. `Have` and `Have got`.
 18. `used to` (do).
 19. Present tenses - `I'm doing / I do` for the future.
-20. `I'm going to` (do)
+20. `I'm going to` (do).
+21. `Will` and `Shall` 1.
+22. `Will` and `Shall` 2.
+23. `I will` and `I'm going to`.
+24. `Will be doing` and `Will have done`.
+25. `When I do` and `When I've done`. `If` and `When`.
+26. `can`, `could` and `be able to`.
+27. `Could` (do) and `could have` (done).
+28. `must` and `can't`.
+29. `may` and `might` 1.
+30. `may` and `might` 2.
