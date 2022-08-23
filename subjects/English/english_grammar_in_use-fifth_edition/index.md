@@ -9,12 +9,12 @@
 7. [Unit 7: Present perfect 1](unit_7-present_perfect/exercises.md) - `I have done`.
 8. [Unit 8: Present perfect 2](unit_8-present_perfect_2/exercises.md) - `I have done`.
 9. [Unit 9: Present perfect continuous](unit_9-present_perfect_continuous/exercises.md) - `I have been doing`.
-10. Unit 10: Present perfect continuous and simple - `I have been doing` and `I have done`.
+10. [Unit 10: Present perfect continuous and simple](unit_10-present_perfect_continuous_and_simple/exercises.md) - `I have been doing` and `I have done`.
 11. [Unit 11: How long have you](unit_11-how_long_have_you_been/exercises.md) (been) ... ?
 12. Unit 12: `for` and `since`, `when..?` and `how long..?`.
 13. Present perfect and past 1 - `I have done` and `I did`.
 14. Present perfect and pas 2 - `I have done` and `I did`.
-15. Pas perfect - `I had done`.
+15. Past perfect - `I had done`.
 16. Past perfect continuous - `I had been doing`.
 17. `Have` and `Have got`.
 18. `used to` (do).
