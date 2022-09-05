@@ -15,7 +15,7 @@
 13. [Unit 13: Present perfect and past 1](unit_13-present_perfect_and_past_1/exercises.md) - `I have done` and `I did`.
 14. [Unit 14: Present perfect and pas 2](unit_14-present_perfect_and_past_2/exercises.md) - `I have done` and `I did`.
 15. [Unit 15: Past perfect](unit_15-past_perfect/exercises.md) - `I had done`.
-16. Unit 16: Past perfect continuous - `I had been doing`.
+16. [Unit 16: Past perfect continuous](unit_16-past_perfect_continuous/exercises.md) - `I had been doing`.
 17. Unit 17: `Have` and `Have got`.
 18. Unit 18: `used to` (do).
 19. Unit 19: Present tenses - `I'm doing / I do` for the future.
